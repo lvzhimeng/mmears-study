@@ -1,0 +1,6 @@
+# -*- coding: utf-8 -*-
+# @Time    : 2021/6/22 10:23
+# @Author  : lvzhimeng
+# @FileName: t1.py
+# @Software: PyCharm
+_ga=GA1.2.504395125.1622430805; staging_userId=839; mm_userId=11223; _fbp=fb.1.1622527520316.1673192537; mmtoken=eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIxMTIyMyIsIm5hbWUiOiLlkJXlv5fmoqYiLCJzdXBwb3J0SWQiOm51bGwsImV4cCI6MTYyNDAwMzE1NSwiaWF0IjoxNjIzOTE2NzU1LCJlbWFpbCI6InpoaW1lbmcubHZAaGFwcHktc2VlZC5jb20ifQ.GKCVnMSmWxVrkM9CNHDLQstRh5e0nUWQEu8fxnXvT1_wWsNcl2I4kG63ymJVaGde_RgIFNbWvgVx-buFgMFNdw; sensorsdata2015jssdkcross=%7B%22distinct_id%22%3A%22839%22%2C%22%24device_id%22%3A%22179c569a8c5db2-0b92cbb67194c3-2363163-2073600-179c569a8c6a29%22%2C%22props%22%3A%7B%22%24latest_referrer%22%3A%22%22%2C%22%24latest_referrer_host%22%3A%22%22%2C%22%24latest_traffic_source_type%22%3A%22%E7%9B%B4%E6%8E%A5%E6%B5%81%E9%87%8F%22%2C%22%24latest_search_keyword%22%3A%22%E6%9C%AA%E5%8F%96%E5%88%B0%E5%80%BC_%E7%9B%B4%E6%8E%A5%E6%89%93%E5%BC%80%22%7D%2C%22first_id%22%3A%22179c569a8c5db2-0b92cbb67194c3-2363163-2073600-179c569a8c6a29%22%7D; _gid=GA1.2.1728917074.1624243860; _gat_gtag_UA_136370670_1=1; _gat_gtag_UA_138072343_1=1; _uetsid=91a23350d23b11eb8fbacfccd32a5960; _uetvid=d49f1bb09d0811ebb9a873401912c485
